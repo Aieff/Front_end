@@ -1,1 +1,0 @@
-Virtual Phone com JavaScript
